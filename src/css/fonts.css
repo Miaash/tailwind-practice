@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "EVECondom-Regular";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2409-2@1.0/EVECondom-Regular.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+/* 
+@font-face {
+  font-family: "JejuDoldam"; 
+  src: url("../font/EF_jejudoldam\(OTF\).woff2"),
+    url("../font/EF_jejudoldam_OTF_.woff"); 
+} */
+
+.sofadi-one-regular {
+  font-family: "Sofadi One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.eve-condom {
+  font-family: "EVECondom-Regular";
+}
+
+.jeju {
+  font-family: "JejuDoldam";
+}
